@@ -1,5 +1,7 @@
 # PJ_HEALTCARE_DASHBOARD_AND_DB
 This project is an end-to-end Business Intelligence solution built with Power BI and Microsoft SQL Server
+# due the project size the data, database and dashboard are insde the link below
+https://drive.google.com/drive/folders/1us6HEXrvY9iEqzlILRYJ4emeSZWur5Fy?usp=sharing
 # Healthcare Enrollment Analytics Dashboard
 
 ## Overview
