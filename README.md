@@ -162,6 +162,6 @@ This dashboard enables healthcare organizations to:
 
 ## Author
 
-**Juan David Porras**
+**Juan Pablo Peña Gutierrez**
 
 Business Intelligence \| Data Analytics \| Power BI \| SQL \| Python
